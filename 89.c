@@ -9,6 +9,8 @@ int main()
     scanf("%d",&a[i]);*/
     printf("Output :\n");
     
+    
+    
  /*   for(i=0;i<l;i++)
     {
          
