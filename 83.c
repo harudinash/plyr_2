@@ -13,7 +13,7 @@ int main()
     {
        
        if(i==0)
-           k=(a[i]&a[j]);
+           k=(a[i]|a[j]);
       else
       k=(k|a[i]);
        
