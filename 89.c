@@ -36,6 +36,6 @@ int main()
   }
   z=x/y;
   
-printf("%d",z/2);
+printf("%d",z);
     return 0;
 }
