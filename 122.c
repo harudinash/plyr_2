@@ -29,11 +29,14 @@ int main(void)
 		}
 		else if(str[4]=='6')
 		{
+			
 			printf("june");
 		}
+		
 		else if(str[4]=='7')
 		{
 			printf("july");
+			
 		}
 		else if(str[4]=='8')
 		{
